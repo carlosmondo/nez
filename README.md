@@ -1,2 +1,3 @@
-# nez
-NEZ (Nintendo Entertainment System Emulattion in Zig)
+# NEZ
+
+NEZ (Nintendo Entertainment System Emulation in Zig)
